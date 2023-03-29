@@ -22,6 +22,11 @@ class Principal{
 		System.out.println("O nome digitado foi: ");
 		System.out.println(nome);
 
+		System.out.println("A idade digitada foi: ");
+		System.out.println(idade);
+
+		System.out.println("O endereco digitado foi: ");
+		System.out.println(endereco);
 
 		
 
