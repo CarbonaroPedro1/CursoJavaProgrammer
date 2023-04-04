@@ -1,0 +1,26 @@
+Pagina 18 da apostila
+
+Criação de projetos no Eclipse
+
+1 Determinar em qual diretoria seu projeto sera salvo
+2 Abrir o Eclipse
+3 Selecionar intem FILE,NEW, OTHER e JAVA PROJECT - abriu janela...
+4 Na janela, nomeie o projeto (inico sempre com letra minuscula) 
+5 Ainda na janela, selecione a pasta onde o projeto será guardado (tem que fazer sentido)
+6 Verificar a necessidade (oque preciso fazer no meu projeto)
+7 Criar um metodo MAIN (Principal) - Sem criação de PACKAGE
+	Botão direto na pasta SRC selecione, NEW e CLASS
+	O nome da CLASS sempre inicia com letra maiuscula
+	A classe precisa do metodo MAIN (onde inicia o programa)
+
+
+
+
+
+
+
+
+
+
+OBS: A pastinha JRE contém as classes nativas do JAVA
+OBS: O código JAVA deve ser adicionado na pasta SRC
